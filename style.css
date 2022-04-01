@@ -178,13 +178,14 @@ body {
 
 .cer1 {
     text-align: center;
-    line-height: 1em;
-    margin-bottom: 5px;
+    line-height: 1.0em;
+    margin-bottom: 10px;
 }
 
 .exp1 {
     text-align: center;
     line-height: 1.0em;
+    margin-bottom: 10px;
 }
 
 .edu1 {
