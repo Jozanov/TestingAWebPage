@@ -1,4 +1,4 @@
-* {
+/* {
 margin: 0;
 
 }
@@ -76,6 +76,16 @@ html, body {
 	text-shadow: 2px 2px 8px #000000;
 	
 }
+*/
 
+h3 {
+    color: rgb(89, 95, 180);
+}
 
+h2 {
+    color: rgb(121, 151, 218);
+}
 
+h1 {
+    color: rgb(41, 41, 194);
+}
