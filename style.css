@@ -158,10 +158,12 @@ img {
 
 header {
     background-color: rgb(219, 219, 219);
+    padding: 30px;
 }
 
 body {
     background-color: rgb(232, 238, 236);
+    padding: 20px;
 }
 
 .cer1 {
