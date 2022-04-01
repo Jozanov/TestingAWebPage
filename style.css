@@ -78,14 +78,89 @@ html, body {
 }
 */
 
-h3 {
-    color: rgb(89, 95, 180);
-}
-
-h2 {
-    color: rgb(121, 151, 218);
+h1,
+h2,
+h3,
+h4,
+p,
+li,
+nav p {
+    font-family: sans-serif;
 }
 
 h1 {
-    color: rgb(41, 41, 194);
+    color: rgba(41, 41, 194, 0.8);
+    font-size: 60px;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(80, 159, 212);
+    font-size: 30px;
+    text-align: center;
+}
+
+h3 {
+    color: rgba(179, 31, 171, 0.8);
+    font-size: 30px;
+    text-align: center;
+}
+
+h4 {
+    color: rgb(111, 112, 19);
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.4;
+}
+
+li {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+nav {
+    line-height: 0.5;
+    text-align: center;
+}
+
+
+/* footer p {
+    font-size: 9px;
+} */
+
+#copyright {
+    font-size: 9px;
+}
+
+img {
+    text-align: center;
+}
+
+header div {
+    text-align: center;
+}
+
+img {
+    border: 5px solid rgb(116, 240, 236);
+}
+
+#email {
+    font-size: 15px;
+    color: rgb(43, 70, 226);
+}
+
+.modules-1-and-2 {
+    color: rgba(50, 104, 104, 0.7);
+}
+
+header {
+    background-color: rgb(219, 219, 219);
+}
+
+body {
+    background-color: rgb(201, 245, 230);
 }
