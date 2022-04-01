@@ -178,8 +178,8 @@ body {
 
 .cer1 {
     text-align: center;
-    line-height: 1.0em;
-    margin-bottom: 10px;
+    line-height: 1.2em;
+    margin-bottom: 5px;
 }
 
 .exp1 {
@@ -191,16 +191,22 @@ body {
 
 .edu1 {
     text-align: center;
-    line-height: 1em;
+    line-height: 1.2em;
+    padding: 1px;
+    margin-bottom: 1px;
 }
 
 .interes1 {
     text-align: center;
-    line-height: 1em;
+    line-height: 1.2em;
+    padding: 1px;
+    margin-bottom: 1px;
 }
 
 .info-basic {
-    line-height: 1em;
+    line-height: 1.2em;
+    padding: 1px;
+    margin-bottom: 1px;
 }
 
 a:link {
