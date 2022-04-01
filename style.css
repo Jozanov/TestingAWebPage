@@ -164,3 +164,23 @@ header {
 body {
     background-color: rgb(201, 245, 230);
 }
+
+.cer1 {
+    text-align: center;
+    line-height: 00.7em;
+}
+
+.exp1 {
+    text-align: center;
+    line-height: 1.2em;
+}
+
+.edu1 {
+    text-align: center;
+    line-height: 1em;
+}
+
+.interes1 {
+    text-align: center;
+    line-height: 1em;
+}
