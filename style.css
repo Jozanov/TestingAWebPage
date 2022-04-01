@@ -187,3 +187,23 @@ body {
 .info-basic {
     line-height: 1em;
 }
+
+a:link {
+    color: rgb(59, 14, 223);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(31, 35, 230);
+}
+
+a:hover {
+    color: greenyellow;
+    font-weight: bold;
+    text-decoration: wavy;
+}
+
+a:active {
+    background-color: black;
+    font-style: italic;
+}
