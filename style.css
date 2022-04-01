@@ -95,19 +95,19 @@ h1 {
 }
 
 h2 {
-    color: rgb(80, 159, 212);
+    color: rgb(80, 160, 212);
     font-size: 30px;
     text-align: center;
 }
 
 h3 {
-    color: rgba(179, 31, 171, 0.8);
+    color: rgba(80, 160, 212, 0.8);
     font-size: 30px;
     text-align: center;
 }
 
 h4 {
-    color: rgb(111, 112, 19);
+    color: rgb(89, 204, 212);
     font-size: 20px;
     text-align: center;
 }
@@ -144,7 +144,7 @@ header div {
 }
 
 img {
-    border: 5px solid rgb(116, 240, 236);
+    border: 5px solid rgb(89, 204, 212);
 }
 
 #email {
@@ -161,7 +161,7 @@ header {
 }
 
 body {
-    background-color: rgb(201, 245, 230);
+    background-color: rgb(232, 238, 236);
 }
 
 .cer1 {
