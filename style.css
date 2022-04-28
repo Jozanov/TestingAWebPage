@@ -217,7 +217,7 @@ body {
 }
 
 a:link {
-    color: rgb(59, 14, 223);
+    color: rgb(43, 3, 187);
     text-decoration: none;
 }
 
@@ -226,7 +226,7 @@ a:visited {
 }
 
 a:hover {
-    color: greenyellow;
+    color: rgb(150, 22, 164);
     font-weight: bold;
     text-decoration: wavy;
 }

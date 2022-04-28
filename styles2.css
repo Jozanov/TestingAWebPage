@@ -8,7 +8,8 @@
 
 body {
     padding: 0;
-    margin: 0;
+    margin-left: 50%;
+    margin-right: 50%;
     background-color: rgb(127, 229, 255);
 }
 
@@ -57,4 +58,12 @@ body {
 .output .current-operand {
     color: white;
     font-size: 2.5rem;
+}
+
+.return-to-main {
+    margin-left: -33px;
+    color: rgb(13, 18, 165);
+    margin-bottom: 30px;
+    line-height: 1.2em;
+    text-decoration: wavy;
 }

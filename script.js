@@ -17,6 +17,9 @@ class Calculator {
     }
 
     appendNumber(number) {
+        if (number === '.' && this.currentOperand.includes('.')) return
+
+        this.currentOperand = this.currentOperand.toSrting() + number.toSrting()
 
     }
 
@@ -29,6 +32,7 @@ class Calculator {
         }
 
         updateDisplay() {
+            this.currentOperandTextElement.innerText = this.currentOperand
 
         }
 
