@@ -164,6 +164,7 @@ img {
 .modules-1-and-2 {
     color: rgba(50, 104, 104, 0.7);
     margin-top: 35px;
+    margin-left: 20px;
 }
 
 header {
@@ -174,6 +175,12 @@ header {
 body {
     background-color: rgb(232, 238, 236);
     padding: 20px;
+}
+
+.container {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .cer1 {
@@ -227,4 +234,9 @@ a:hover {
 a:active {
     background-color: black;
     font-style: italic;
+}
+
+li,
+ul {
+    margin-left: 30px;
 }
