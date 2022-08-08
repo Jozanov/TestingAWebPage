@@ -172,8 +172,17 @@ header {
     padding: 30px;
 }
 
-body {
+
+/*body {
     background-color: rgb(232, 238, 236);
+    padding: 20px;
+}*/
+
+body {
+    background-image: url('beautiful-summer.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     padding: 20px;
 }
 
