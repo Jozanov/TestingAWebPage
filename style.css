@@ -114,7 +114,7 @@ h3 {
 }
 
 h4 {
-    color: rgb(89, 204, 212);
+    color: rgb(58, 142, 148);
     font-size: 20px;
     text-align: center;
     margin-top: 70px;
@@ -168,7 +168,10 @@ img {
 }
 
 header {
-    background-color: rgb(219, 219, 219);
+    /*background-color: rgb(219, 219, 219);*/
+    background-image: url('ada9.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
     padding: 30px;
 }
 
